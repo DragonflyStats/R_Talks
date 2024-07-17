@@ -20,3 +20,5 @@ The data is comprehensive and maintained by the machine’s manufacturer12.
 Precision: Some data types (e.g., length and diameter) may lack precision, especially for complex tree architectures. Position data can be affected by signal deflection1.
 In summary, harvester data offers great possibilities for research, forest management, and optimizing the supply chain1. 
 Researchers and practitioners continue to explore its potential for enhancing forest operations3. 
+
+(1) https://link.springer.com/article/10.1007/s10342-020-01313-4
