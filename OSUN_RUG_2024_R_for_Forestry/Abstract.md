@@ -7,11 +7,13 @@ The use of the R programming language in the commercial forestry industry:
 
 ### Abstract:
 
-The field of forestry research has significantly benefited from the integration of computational tools and statistical methods in recent years. Among these tools, the programming language R has emerged as a powerful and versatile platform for forestry research, encompassing data analysis, modeling, and visualization. 
+The field of forestry research has significantly benefited from the integration of computational tools and statistical methods in recent years. Among these tools, the programming language R has emerged as a powerful and versatile platform for forestry research, encompassing data management, data analysis, modeling, and visualization. 
 
 By leveraging R's statistical capabilities, forestry professionals can gain valuable insights for sustainable forest management and resource utilization. Join us to discover how R contributes to evidence-based decision-making in forestry science.
 
-In this presentation, we explore how R is transforming the commercial forestry sector. We'll explore some key R packages commonly used by researchers, such as vegan, lme4, nlme, MuMIn, and ggplot2. 
+In this presentation, we explore how R is transforming the commercial forestry sector. In this presentation, emphasis will be placed on the fundamental importance of data management. We will discuss how R interacts with key databaes systems. 
+
+Additionally we  will explore some key R packages commonly used by researchers, such as vegan, lme4, nlme, MuMIn, and ggplot2. 
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -45,21 +47,6 @@ R has found numerous applications in the field of forestry, aiding researchers a
 Remember that these examples merely scratch the surface of R's capabilities in forestry. 
 Researchers continue to develop new packages and methods, making R an essential tool for sustainable forest management and research.
 
--------------------------------------------------------------------------------------------------------------------
-
-### Increased Use of R 
-
-***FIND REFERENCES FOR THIS***
-
-However, the key trends in general reported R use and patterns in forestry research remain unknown. 
-
-<quote>
-To address this, we conducted a comprehensive analysis of R and R package usage frequencies across 14,800 research articles published in eight top forestry journals from 2013 to 2022. 
-Notably, 45.7% of these articles explicitly utilized R as their primary tool for data analysis. 
-The adoption of R exhibited a linear growth trend, rising from 28.3% in 2013 to 60.9% in 2022. 
-The top five most used R packages were vegan, lme4, nlme, MuMIn, and ggplot2. 
-Our findings underscore the pivotal role of R in enabling researchers to conduct thorough analyses and gain comprehensive insights into various aspects of forestry science1.
-</quote>
 
 -----------------------------------------------------------------------------------------------------------------
 
