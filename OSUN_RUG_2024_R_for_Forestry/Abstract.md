@@ -1,15 +1,13 @@
 
-the use of the R programming language in the commercial forestry industry:
+### Title: 
 
-Abstract: The field of forestry research has significantly benefited from the integration of computational tools and statistical methods in recent years. Among these tools, the programming language R has emerged as a powerful and versatile platform for forestry research, encompassing data analysis, modeling, and visualization. 
-
-
+The use of the R programming language in the commercial forestry industry:
 
 -----------------------------------------------------------------------------------------------------------------------
 
 ### Abstract:
 
-The R programming language has become a powerful tool in forestry research, enabling data analysis, modeling, and visualization. 
+The field of forestry research has significantly benefited from the integration of computational tools and statistical methods in recent years. Among these tools, the programming language R has emerged as a powerful and versatile platform for forestry research, encompassing data analysis, modeling, and visualization. 
 
 By leveraging R's statistical capabilities, forestry professionals can gain valuable insights for sustainable forest management and resource utilization. Join us to discover how R contributes to evidence-based decision-making in forestry science.
 
